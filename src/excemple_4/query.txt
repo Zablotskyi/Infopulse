@@ -1,0 +1,4 @@
+І запрос:
+SELECT account_id, customer_id, avail_balance FROM account WHERE  status='ACTIVE' and avail_balance>1000;
+
+ІІ запрос:
